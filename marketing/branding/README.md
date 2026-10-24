@@ -1,31 +1,53 @@
 # Better Together Labs — Branding Explorations
 
-**Status:** Working concepts for founder review; no final logo has been selected.
+**Status:** Original visual explorations uploaded; no final logo or logo system approved yet.
 
-These concept images were created to explore the approved brand direction: **a modern Tree of Life silhouette, a subtle rainbow ring, deep teal, human-centered design, and professional credibility**.
+The design direction is a **Tree of Life silhouette with a subtle rainbow ring**: inclusive, people-first, grounded, warm, and polished enough for an executive boardroom. Deep teal anchors the identity, with a restrained rainbow accent.
 
-## Proposed image library
+## Original generated PNG concepts
 
-| Filename | Intended use |
-|---|---|
-| `primary-stacked-with-tagline.png` | Main stacked logo including company name and founding tagline |
-| `horizontal-wordmark.png` | Website header, presentation header, business documents |
-| `icon-tree-rainbow-transparent.png` | Standalone tree-and-rainbow brand symbol |
-| `circular-badge.png` | Circular seal/profile/badge treatment |
-| `monochrome-wordmark-transparent.png` | Single-color print or simplified use |
-| `compact-icon-transparent.png` | App icon and favicon exploration |
-| `exploration-organic-tree.png` | Organic, people-first visual option |
-| `exploration-network-tree.png` | Tree with network-like connections |
+The founder uploaded the original generated artworks to this directory on October 24, 2026. These files are the **preferred visual references** for further iteration.
 
-**Asset upload status:** The PNG assets are prepared as an accompanying package but are **not yet committed** to this repository. This index records intended filenames and uses rather than implying that the images are available here.
+| Preview | Format | Status |
+|---|---|---|
+| [Concept 1](<ChatGPT%20Image%20Oct%2024,%202026,%2006_34_24%20PM-1.png>) | PNG | Original generated brand exploration |
+| [Concept 2](<ChatGPT%20Image%20Oct%2024,%202026,%2006_34_39%20PM-2.png>) | PNG | Original generated brand exploration |
+| [Concept 3](<ChatGPT%20Image%20Oct%2024,%202026,%2006_34_43%20PM-3.png>) | PNG | Original generated brand exploration |
+| [Concept 4](<ChatGPT%20Image%20Oct%2024,%202026,%2006_34_46%20PM-4.png>) | PNG | Original generated brand exploration |
+| [Concept 5](<ChatGPT%20Image%20Oct%2024,%202026,%2006_34_48%20PM-5.png>) | PNG | Original generated brand exploration |
+| [Concept 6](<ChatGPT%20Image%20Oct%2024,%202026,%2006_34_50%20PM-6.png>) | PNG | Original generated brand exploration |
 
-## Next decisions
+The concept numbers above correspond to the **actual uploaded filenames**, not an official preference ranking. PNG images are raster files; they are not editable vector source.
 
-1. Select the core tree form and rainbow treatment.
-2. Refine for small sizes, typography, light/dark backgrounds, and accessibility.
-3. Produce true vector **SVG source assets** from the selected design (current image explorations are PNG raster images, even when they look vector-like).
-4. Publish approved final and alternate logo lockups, with usage guidance.
+## Earlier experimental SVGs
+
+The [`vector/`](vector/) directory contains five programmatically constructed SVG alternatives. **These are superseded explorations, not faithful vectorizations of the generated PNG artwork, and not approved brand assets.** Do not use them as the source of truth or publish them as official logos.
+
+They are retained only as a record of the design process, pending a deliberate cleanup decision.
+
+## Logo system to develop
+
+Once a master concept is selected, create an internally consistent set of approved assets:
+
+- **Primary stacked lockup:** Symbol, full company name, and tagline.
+- **Horizontal lockup:** Symbol and wordmark without tagline, suitable for headers.
+- **Symbol-only mark:** Tree and rainbow ring without writing.
+- **Small-format icon:** Simplified and tested for favicon/avatar legibility.
+- **Monochrome and reversed versions:** High-contrast applications on light and dark backgrounds.
+- **Production formats:** Transparent PNG plus clean, editable, true vector SVG (not a raster image embedded in an SVG wrapper).
+
+Any vector tracing or redrawing must preserve the chosen original's shapes and character, with a visual review before promotion to an approved asset.
+
+## Brand language
+
+**Name:** Better Together Labs
 
 **Tagline:** Human imagination. Artificial intelligence. Shared progress.
 
-See [Founding Brand Brief](../../brand/BRAND-BRIEF.md) for the values and identity principles behind these explorations.
+**Guiding principle:** Human ingenuity leads. Technology supports. Progress is shared.
+
+See the [Founding Brand Brief](../../brand/BRAND-BRIEF.md) for our mission, values, audience, and identity philosophy.
+
+## Outstanding decisions
+
+Select the visual master; refine typography and palette; check readability, accessibility, and small-size behavior; approve the final asset family; then replace references in websites, proposals, and other public materials. No candidate should be called *final* before founder approval.
